@@ -1,0 +1,96 @@
+#container{
+height: 1500px;
+width: 1600px;
+border-radius: 50px;
+
+
+}
+#vibe{
+    background-image: url("Images/woman.jpg");
+    width: 1670px;
+    height: 980px;
+    object-fit: contain;
+    font-size: x-large;
+    border-radius: 20px;
+}
+#navbar{
+width: 1670px;
+height: 70px;
+gap: 15%;
+display: flex;
+background-color: rgb(70, 70, 55);
+}
+#landpage{
+display: flex;
+gap: 10%;
+margin-left: 400px;
+}
+#welcome{
+    background-image: url("Images/smile.webp");
+    width: 700px;
+    height: 700px;
+    object-fit: cover;
+    font-size: x-large;
+    -webkit-text-fill-color: rgb(33, 33, 93);
+    border-radius: 90px;
+    display: block;
+}
+#smile{
+   width: 150px;
+   height: 150px;
+   border-radius: 150px;
+}
+#hi{
+    display: flex;
+    gap: 5%;
+}
+#feel{
+    display: flex;
+    gap: 10%;
+    margin-left: 40px;
+}
+#girls{
+    width: 900px;
+    height: 700px;
+    border-radius: 90px;
+}
+#art{
+    display: flex;
+    gap: 2%;
+    margin-top: 50px;
+}
+#search{
+    width: 200px;
+    height: 50px;
+    border-radius: 50px;
+    margin-top: 10px;
+}
+#image{
+    width: 900px;
+    height: 700px;
+    margin-left: 100px;
+    background-color: rgb(227, 218, 219);
+    margin-top: 200px;
+    display: flex;
+    border-radius: 100px;
+    gap: 5%;
+
+}
+#run{
+    width: 300px;
+    height: 500px;
+    margin-top: 100px;
+}
+#run1{
+    transform: rotate(-10deg); 
+    width: 300px;
+    height: 500px;
+    margin-top: 100px;  
+
+}
+#run2{
+    transform: rotate(10deg); 
+    width: 300px;
+    height: 500px;
+    margin-top: 100px;   
+}
